@@ -1,0 +1,13 @@
+
+---
+
+## **3. Push to GitHub from VS Code**
+In your terminal inside VS Code, run:
+```bash
+git init
+git add .
+git commit -m "Add hospital QR code project"
+git branch -M main
+git remote add origin https://github.com/avenue hospital/hospital-payment-qr.git
+git push -u origin main
+
