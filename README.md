@@ -111,6 +111,7 @@ JWT_SECRET=your_jwt_secret
 ### 4. Run Locally
 ```bash
 node server_final.js
+
 ```
 Visit:  
 - Dashboard → [http://localhost:4000/admin](http://localhost:4000/admin)  
